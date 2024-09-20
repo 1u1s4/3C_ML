@@ -1,0 +1,9 @@
+mysql-connector-python
+mysql
+mysql-connector-python-rf
+pandas
+sqlalchemy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
